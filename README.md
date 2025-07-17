@@ -80,7 +80,7 @@ We welcome contributions! To contribute:
 
 ## Contact
 
-For any inquiries or feedback, feel free to reach out at shyamkolisetty@gmail.com
+For any inquiries or feedback, feel free to reach out at shyamkolisetty@gmail.com, neethusrinedh@gmail.com
 
 **Ongoing Development**
 The ICPC Hall of Fame is an evolving project, and we recognize that there are many areas where we can make improvements. We are actively working on enhancing the platform, including adding new features, improving the user interface, and optimizing performance.
